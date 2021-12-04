@@ -33,20 +33,20 @@ The greatest amount spent by any one corporate contributor was $240,000. This wa
  
 Network Visualizations:
 Corporate Contributors (2012) ↓
- 	 
-Largest component in the corporate contributor’s projection
-There are six communities detected by the cluster walktrap community detection method. 	2nd largest component in corporate contributors’ projection
+![image](https://user-images.githubusercontent.com/54888442/144695328-bcaf5c35-c04e-4cdd-9a9f-9ac42342dbb8.png)
+Largest component in the corporate contributor’s projection. There are six communities detected by the cluster walktrap community detection method.
+![image](https://user-images.githubusercontent.com/54888442/144695330-f96ddfa1-8bf9-4289-8fee-a60a38cf27c9.png)
+2nd largest component in corporate contributors’ projection
 Two Illinois parties are connected by multiple edges passing through the Threlkeld Investment Fund.
- 	 
+![image](https://user-images.githubusercontent.com/54888442/144695332-5582e64b-64ee-4c67-a2df-6431a5d910e8.png)
 Largest Corporate Contributor Component 
 Alternate Visualization.
-	All Components Corporate Contributors
+![image](https://user-images.githubusercontent.com/54888442/144695334-f41fbb3f-51d7-40d7-9aea-44715b3f6310.png)
+All Components Corporate Contributors
 There are 14 components in the projection created by corporate contributors.
 
 Individual Contributors (2012) ↓
- 
-  	 
-
+![image](https://user-images.githubusercontent.com/54888442/144695356-013cd4bf-4bd8-4508-9c9b-cfa041ffce45.png)
 Largest component in the individual contributor’s projection
 There are three communities detected by the cluster walktrap community detection method. 	Other components and their communities
 The remaining components produced less cohesive communities for the cluster walktrap method. 
