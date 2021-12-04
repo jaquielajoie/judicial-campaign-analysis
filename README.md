@@ -32,38 +32,12 @@ The greatest amount spent by any one corporate contributor was $240,000. This wa
 
  
 Network Visualizations:
-Corporate Contributors (2012) ↓  
-![image](https://user-images.githubusercontent.com/54888442/144695392-ae31afdd-a126-4962-89c2-bd2139b57370.png).    
-Largest component in the corporate contributor’s projection. There are six communities detected by the cluster walktrap community detection method.  
-![image](https://user-images.githubusercontent.com/54888442/144695330-f96ddfa1-8bf9-4289-8fee-a60a38cf27c9.png).  
-2nd largest component in corporate contributors’ projection.  
-Two Illinois parties are connected by multiple edges passing through the Threlkeld Investment Fund.   
-![image](https://user-images.githubusercontent.com/54888442/144695332-5582e64b-64ee-4c67-a2df-6431a5d910e8.png).  
-Largest Corporate Contributor Component    
-Alternate Visualization.   
-![image](https://user-images.githubusercontent.com/54888442/144695334-f41fbb3f-51d7-40d7-9aea-44715b3f6310.png).  
-All Components Corporate Contributors.  
-There are 14 components in the projection created by corporate contributors.   
 
-Individual Contributors (2012) ↓.  
-![image](https://user-images.githubusercontent.com/54888442/144695356-013cd4bf-4bd8-4508-9c9b-cfa041ffce45.png).  
-Largest component in the individual contributor’s projection.  
-There are three communities detected by the cluster walktrap community detection method.   
-Other components and their communities.  
-![image](https://user-images.githubusercontent.com/54888442/144695430-0a5d3c68-411f-44db-8571-259303a708c2.png).  
-![image](https://user-images.githubusercontent.com/54888442/144695433-4921b80e-e5e2-4b4e-887c-c6d966ddacc3.png).  
-![image](https://user-images.githubusercontent.com/54888442/144695438-57517de3-7eea-4826-b30d-d3c8f862a6c5.png).  
-The remaining components produced less cohesive communities for the cluster walktrap method.   
-(2nd, 5th, and 6th ).   
-![image](https://user-images.githubusercontent.com/54888442/144695446-330487d5-8750-4ed5-9557-e39b6b74361a.png)
-Largest Individual Contributor Component    
-Alternate Visualization. Communities are connected by a single node.    
+![Screen Shot 2021-12-03 at 10 45 23 PM](https://user-images.githubusercontent.com/54888442/144695755-c719b3bc-62d1-4b2b-9b9b-8a72aeea39f8.png)
+![Screen Shot 2021-12-03 at 10 45 04 PM](https://user-images.githubusercontent.com/54888442/144695757-cc3d4734-88a1-4944-9b3f-880871c3e0bf.png)
+![Screen Shot 2021-12-03 at 10 44 56 PM](https://user-images.githubusercontent.com/54888442/144695759-bfe164a4-5f09-412d-8f14-6830fbf1b5a9.png)
+![Screen Shot 2021-12-03 at 10 44 37 PM](https://user-images.githubusercontent.com/54888442/144695760-d3dd53a8-d592-4b59-842f-8fdc2cb66e3a.png)
 
-![image](https://user-images.githubusercontent.com/54888442/144695452-03e8936b-0edf-48b4-94a8-5a0b5b99025f.png)   
-All Components Individual Contributors. 
-There are 24 components in the projection created by individual contributors.  
-  
- 
 Important Contributors ↓.  
 Important contributors were identified by high eigenvalue centrality.  
 
