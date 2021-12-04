@@ -145,25 +145,9 @@ Higher density and fewer components can be observed within the corporate donatio
 
  
 3.	Community Detection
-Communities were detected by observing the largest component in each the corporate and individual’s contributor networks. Once a successful algorithm was determined, all subsequent components for said network were processed with that algorithm to generate additional community separated visualizations.
 
-Corporate Communities. 
-Algorithm	Communities	Modularity
-Walktrap	6	0.50371
-Edge-Betweenness	6	0.50371
-Leading Eigenvector	5	0.50306
-FastGreedy	2	-4.250073e-17
-Spinglass	7	0.50001
+![Screen Shot 2021-12-03 at 10 40 28 PM](https://user-images.githubusercontent.com/54888442/144695632-7d80f412-f320-49f6-8aa7-86a57052c00d.png)
 
-Individual Communities.
-Algorithm	Communities	Modularity
-Walktrap	3	0.6038
-Edge-Betweenness	3	0.6383
-Leading Eigenvector	3	0.6049
-Fast-Greedy	3	4.250073e-17
-Spinglass	1	0
-
-Modularity and the number of communities was relatively stable across all community detection methods. This lends further credence to the claim that these communities could be observed naturally. Using modeling techniques can help to discover what these characteristics may be.
 
 4.	ERGM Modeling
 Three ERGM models were ran against the corporate state party network. Individual state parties were excluded because of the low density in the network. Contributors were excluded because of issues around incomplete data.
