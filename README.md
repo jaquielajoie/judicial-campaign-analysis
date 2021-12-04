@@ -140,55 +140,9 @@ Six networks are outlined below. Individual and corporate bipartite, and contrib
 Higher density and fewer components can be observed within the corporate donation network. This reflects a higher average outdegree for contributor node types in the corporate bipartite network. 
 
 2.	Centrality Analysis
-Only corporations with high centrality will be listed for privacy reasons. What is observed is that for both renditions of the network, republican party contributors constitute 30% of the ten most central nodes. Democratic contributors are at 10%.
 
-Eigenvalue Bipartite Corporation
+![Screen Shot 2021-12-03 at 10 39 26 PM](https://user-images.githubusercontent.com/54888442/144695620-228a7ff6-cb47-4728-995e-78cd29adbdd9.png)
 
-[1] NORTH CAROLINA JUDICIAL CAMPAIGN REFORM PUBLIC FINANCING PROGRAM
-	                                                    [2] NC.0 
-	
-[3] TEXANS FOR LAWSUIT REFORM  	
-[4] OHIO REPUBLICAN PARTY	
-[5] VINSON & ELKINS 
-
-[6] OHIO DEMOCRATIC PARTY
-	
-[7] WESTSTAR BANK  	
-[8] TEXAS REPUBLICAN PARTY	
-[9] BUTLER COUNTY REPUBLICAN PARTY   
-	
-[10] ANDREWS & KURTH
-Eigenvalue Projected Contributor Corporation
-
-[1] NC.0
-	                                                    [2] NORTH CAROLINA JUDICIAL CAMPAIGN REFORM PUBLIC FINANCING PROGRAM	
-[3] TEXANS FOR LAWSUIT REFORM  	
-[4] PENNSYLVANIA REPUBLICAN PARTY	
-[5] OHIO REPUBLICAN PARTY
-
-[6] VINSON & ELKINS 	
-[7] SOUTHEAST WOOD TREATING	
-[8] OHIO DEMOCRATIC PARTY	
-[9] JACKSON PAC
-	
-[10] MICHIGAN REPUBLICAN PARTY
-
-The centrality of the corporate and individual contributor projections is greatly different from one another. This is especially true for the largest component in each. The largest component can serve as a hypothesis of what subnetworks will look like when edges are removed. Centrality attributes may be exaggerated as a result. 
-
-Corporations	Network Wide	Largest Component
-Degree Centrality	0.173	0.307
-Betweenness Centrality	0.155	0.446
-Closeness Centrality	0.001567352	0.3743186
-Eigenvalue Centrality	0.9805269	0.593444
-
-
-Individuals	Network Wide	Largest Component
-Degree Centrality	0.142	0
-Betweenness Centrality	0.0219	0
-Closeness Centrality	0.000248	0
-Eigenvalue Centrality	0.9870198	1.869849e-16
-
-The individual contributors have lower centrality as a whole than corporations do. This is further exaggerated when the largest component is observed in isolation. The centralities of the corporation’s largest component increase; the individual’s component decreases. This could suggest that the donating patterns of corporations have more structure than those of individuals. 
  
 3.	Community Detection
 Communities were detected by observing the largest component in each the corporate and individual’s contributor networks. Once a successful algorithm was determined, all subsequent components for said network were processed with that algorithm to generate additional community separated visualizations.
