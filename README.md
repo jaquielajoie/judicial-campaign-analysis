@@ -64,32 +64,40 @@ All Components Individual Contributors.
 There are 24 components in the projection created by individual contributors.  
   
  
-Important Contributors ↓
-	Important contributors were identified by high eigenvalue centrality.
+Important Contributors ↓.  
+Important contributors were identified by high eigenvalue centrality.  
 
-[1] NORTH CAROLINA JUDICIAL CAMPAIGN REFORM PUBLIC FINANCING PROGRAM
-	                                                    [2] NC.0 
+[1] NORTH CAROLINA JUDICIAL CAMPAIGN REFORM PUBLIC FINANCING PROGRAM.  
+[2] NC.0   
 	
-[3] TEXANS FOR LAWSUIT REFORM  	
-[4] OHIO REPUBLICAN PARTY	
-[5] VINSON & ELKINS (visualized)
+[3] TEXANS FOR LAWSUIT REFORM  	 
+[4] OHIO REPUBLICAN PARTY	   
+[5] VINSON & ELKINS (visualized).  
+[6] OHIO DEMOCRATIC PARTY.  
+[7] WESTSTAR BANK  	 
+[8] TEXAS REPUBLICAN PARTY.  	
+[9] BUTLER COUNTY REPUBLICAN PARTY     
+[10] ANDREWS & KURTH.  
+Corporate Contribution Sub-Graphs.   
+ 	 
+![image](https://user-images.githubusercontent.com/54888442/144695489-346ef6aa-af79-487f-99a6-1933b95b9cc0.png).  
+	 
+Donations to Pennsylvania Republicans  
+The Pennsylvanian Republican candidates have the 12th highest eigenvalue centrality. There are 15 total contributors. 	
 
-[6] OHIO DEMOCRATIC PARTY
-	
-[7] WESTSTAR BANK  	
-[8] TEXAS REPUBLICAN PARTY	
-[9] BUTLER COUNTY REPUBLICAN PARTY   
-	
-[10] ANDREWS & KURTH
-Corporate Contribution Sub-Graphs 
- 	 
-Donations to Pennsylvania Republicans
-The Pennsylvanian Republican candidates have the 12th highest eigenvalue centrality. There are 15 total contributors. 	Donations to Alabama Republicans
-Alabama Republicans received $220,100 from listed nodes. Democratic nominees received $38,500 that same year.
- 	 
-Donations to Non-Partisan Michiganders
-There was $220,100 in donations from groups including the Michigan Republican Party and Progressive Women’s Alliance. Candidates do not specify a party. 25% of contributors identify as Republican. 	Vinson & Elkis (5th Most Influential) 
-The contributors with the four highest centralities donate to a single state party. Vinson & Elkis donates Democratic, Republican, and independent candidates. Contributions were 3.7%, 87%, and 9.3% respectively. 
+![image](https://user-images.githubusercontent.com/54888442/144695499-d9fc9c7d-b69e-40e8-b991-f116e449f6e0.png).  
+
+Donations to Alabama Republicans.  
+Alabama Republicans received $220,100 from listed nodes. Democratic nominees received $38,500 that same year.   
+
+![image](https://user-images.githubusercontent.com/54888442/144695505-1dfec016-189f-4f37-8148-621e649c873e.png).  
+Donations to Non-Partisan Michiganders.   
+There was $220,100 in donations from groups including the Michigan Republican Party and Progressive Women’s Alliance. Candidates do not specify a party. 25% of contributors identify as Republican. 	
+
+![image](https://user-images.githubusercontent.com/54888442/144695515-2aaf8f96-19b1-43dc-ad05-c33ac118d56a.png).   
+
+Vinson & Elkis (5th Most Influential)   
+The contributors with the four highest centralities donate to a single state party. Vinson & Elkis donates Democratic, Republican, and independent candidates. Contributions were 3.7%, 87%, and 9.3% respectively.   
 State Parties (2012) ↓ 
  	
 Individual Contributors
