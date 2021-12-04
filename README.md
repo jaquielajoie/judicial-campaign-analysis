@@ -1,4 +1,5 @@
-# Judicial Campaign Donations: Individual and Corporate Lobbying (2012)
+# Judicial Campaign Donations: 
+## Individual and Corporate Lobbying (2012)
 
 Problem Domain & Research Questions:
 In the paper The Politics of Judicial Elections, 2017-18, it is stated that 82% of judicial campaign interest group donations were nontransparent. A 2015 John Oliver segment discussed the detrimental role donations play in judicial politics.  The DIME data set, supplied by Harvard Dataverse provides a record of judicial campaign donations from 1980 to 2012. The aim of the following paper is to outline how social network analysis can be applied to this data set, or others similar in nature, to unearth some of the questions posed by existing discussions on the topic. More specifically, can we use community detection, centrality analysis, and exponential random graph models to describe financial activity in judicial election cycles.  
