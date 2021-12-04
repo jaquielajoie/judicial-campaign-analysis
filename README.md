@@ -31,14 +31,14 @@ State party is comprised of two recipient attribute values. Four possible values
 The greatest amount spent by any one corporate contributor was $240,000. This was followed by 11 additional contributors above $20,000. Somewhat surprisingly the most donated by any single individual to a single state party was $250,100. This included 11 additional contributors who spent more than $20,000 as well. 
 
  
-Network Visualizations:
+## Network Visualizations:
 
 ![Screen Shot 2021-12-03 at 10 45 23 PM](https://user-images.githubusercontent.com/54888442/144695755-c719b3bc-62d1-4b2b-9b9b-8a72aeea39f8.png)
 ![Screen Shot 2021-12-03 at 10 45 04 PM](https://user-images.githubusercontent.com/54888442/144695757-cc3d4734-88a1-4944-9b3f-880871c3e0bf.png)
 ![Screen Shot 2021-12-03 at 10 44 56 PM](https://user-images.githubusercontent.com/54888442/144695759-bfe164a4-5f09-412d-8f14-6830fbf1b5a9.png)
 ![Screen Shot 2021-12-03 at 10 44 37 PM](https://user-images.githubusercontent.com/54888442/144695760-d3dd53a8-d592-4b59-842f-8fdc2cb66e3a.png)
 
-Important Contributors ↓.  
+## Important Contributors ↓.  
 Important contributors were identified by high eigenvalue centrality.  
 
 ![Screen Shot 2021-12-03 at 10 43 29 PM](https://user-images.githubusercontent.com/54888442/144695702-2d071adb-b728-4bfb-a793-8fd0187f58c0.png)
@@ -46,13 +46,13 @@ Important contributors were identified by high eigenvalue centrality.
 ![Screen Shot 2021-12-03 at 10 43 09 PM](https://user-images.githubusercontent.com/54888442/144695703-cb6f50bb-ff4a-4a50-94ba-e2cb8a0c9f1b.png)
 
 
-State Parties (2012) ↓ 
+### State Parties (2012) ↓ 
 
 ![Screen Shot 2021-12-03 at 10 42 09 PM](https://user-images.githubusercontent.com/54888442/144695675-be7b4afe-99b8-4ea7-8d6a-ce0a01cc5c9f.png)
 
 
  
-Social Network Analysis:
+## Social Network Analysis:
 The following social network analysis practices will be discussed in their application to the corporate and individual judicial donation data sets: five number summary, centrality analysis, community detection, and ERGM modeling.  
 
 1.	Five Number Network Summaries:
@@ -66,17 +66,17 @@ Six networks are outlined below. Individual and corporate bipartite, and contrib
 
 Higher density and fewer components can be observed within the corporate donation network. This reflects a higher average outdegree for contributor node types in the corporate bipartite network. 
 
-2.	Centrality Analysis
+## 2.	Centrality Analysis
 
 ![Screen Shot 2021-12-03 at 10 39 26 PM](https://user-images.githubusercontent.com/54888442/144695620-228a7ff6-cb47-4728-995e-78cd29adbdd9.png)
 
  
-3.	Community Detection
+## 3.	Community Detection
 
 ![Screen Shot 2021-12-03 at 10 40 28 PM](https://user-images.githubusercontent.com/54888442/144695632-7d80f412-f320-49f6-8aa7-86a57052c00d.png)
 
 
-Other Relevant Methodologies:
+## Other Relevant Methodologies:
 There are two primary ways that the analysis can be improved with greater time investment. The first deeper analysis with the four listed techniques. The second is by implementing multiple election cycles to observe, describe, and model network evolution. 
 
 Expanding existing analysis:
@@ -95,7 +95,7 @@ Second, while state parties are likely to remain the same across the cycle years
 
 Applying Siena to this data set would be incredibly interesting but would also involve a lot of addition dedication within the data cleaning and analysis domains. 
 
-Discussion of Results:
+## Discussion of Results:
 The most salient finding of the network analysis is that more research needs to be done. Uncertainty, such as the type explored in the background literature, necessitates understanding more about the frame in which judicial elections reside. There are two primary questions that need clarifying: what are the rule differences between individual and corporate contributors, and what other resources exist for this transaction information. The first question is motivated by the fact that the largest corporate and individual contributors spent the same amount. Could there be corporate donations funneled through individuals? The second question aims to adjust for any potential data set skew caused by 82% nontransparent donations.
 
 Based on the five-number summary, centrality analysis, community detection, and ERGM modeling, the statement that individuals and corporations donate differently can be justified. More specifically, we can say that the corporate donating network is more homogeneous. The fact that difference between corporations and individuals can be described solely by their donating patterns can motivate discussions regarding misalignment between corporate and individual political interests. Given judicial elections are aimed to benefit individuals, action can be taken to better achieve this end. 
