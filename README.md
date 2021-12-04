@@ -32,8 +32,9 @@ The greatest amount spent by any one corporate contributor was $240,000. This wa
 
  
 Network Visualizations:
-Corporate Contributors (2012) ↓
-![image](https://user-images.githubusercontent.com/54888442/144695328-bcaf5c35-c04e-4cdd-9a9f-9ac42342dbb8.png)
+Corporate Contributors (2012) ↓.  
+![image](https://user-images.githubusercontent.com/54888442/144695392-ae31afdd-a126-4962-89c2-bd2139b57370.png).  
+
 Largest component in the corporate contributor’s projection. There are six communities detected by the cluster walktrap community detection method.
 ![image](https://user-images.githubusercontent.com/54888442/144695330-f96ddfa1-8bf9-4289-8fee-a60a38cf27c9.png)
 2nd largest component in corporate contributors’ projection
