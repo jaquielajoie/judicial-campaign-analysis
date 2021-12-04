@@ -149,20 +149,6 @@ Higher density and fewer components can be observed within the corporate donatio
 ![Screen Shot 2021-12-03 at 10 40 28 PM](https://user-images.githubusercontent.com/54888442/144695632-7d80f412-f320-49f6-8aa7-86a57052c00d.png)
 
 
-4.	ERGM Modeling
-Three ERGM models were ran against the corporate state party network. Individual state parties were excluded because of the low density in the network. Contributors were excluded because of issues around incomplete data.
-
-Corporate State Parties.	Null	Homophily	Homophily & Propinquity
-AIC	86.22	86.20	350.7
-Significant Vars.	1	1	1
-Improvement?	-	No	No
-
-This analysis allows us to say while homophily and propinquity seem to be relevant in the observed edges between state parties in 2012, it is not statistically significant to say so. In addition, the ERGMs do not perform better with the addition of attribute related variables. 
-
-In order to substantiate claims that corporations donate in ways guided by propinquity or homophily, more data is needed. Observing the state attribute of contributors would be a way to do this as well, although only for propinquity. 
-
-
-
 Other Relevant Methodologies:
 There are two primary ways that the analysis can be improved with greater time investment. The first deeper analysis with the four listed techniques. The second is by implementing multiple election cycles to observe, describe, and model network evolution. 
 
